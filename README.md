@@ -75,9 +75,6 @@ Feel free to use or modify my flows for your own setup. You do so at your own ri
 
 <img width="1079" alt="image" src="https://github.com/user-attachments/assets/2870d665-b68d-4c2f-98ec-305f2fcc9b54" />
 
-<img width="3805" height="1892" alt="image" src="https://github.com/user-attachments/assets/9da3d3f8-3098-4a9f-86d1-cd0a2e055fbb" />
-
-
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/8b72d425-1f3d-4b6b-9fc8-65d8495aefa0" />
 
 The file "NODE-RED FLOWS Vx.x . JSON" contains al the flows in the pictures below. You can import them in Node-RED. 
