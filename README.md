@@ -73,7 +73,7 @@ Features in this Release 1.2:
 🛠️ Note:
 Feel free to use or modify my flows for your own setup. You do so at your own risk.
 
-<img width="1079" alt="image" src="https://github.com/user-attachments/assets/2870d665-b68d-4c2f-98ec-305f2fcc9b54" />
+<img width="3805" height="1892" alt="image" src="https://github.com/user-attachments/assets/8efa2469-045e-4c26-a3a2-97fd9cd24f5a" />
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/8b72d425-1f3d-4b6b-9fc8-65d8495aefa0" />
 
@@ -81,15 +81,16 @@ The file "NODE-RED FLOWS Vx.x . JSON" contains al the flows in the pictures belo
 
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/7757c1ec-6be6-4901-a245-476732700c47" />
 
-<img width="865" alt="image" src="https://github.com/user-attachments/assets/931f85bc-b837-4b6b-83fc-0bab088401e3" />
+<img width="1917" height="1535" alt="image" src="https://github.com/user-attachments/assets/695f53ee-796d-4920-99ce-f4be37471d07" />
 
-<img width="862" alt="image" src="https://github.com/user-attachments/assets/e11d545a-55c6-4bb0-8dc2-4baec3e5149f" />
+<img width="1943" height="644" alt="image" src="https://github.com/user-attachments/assets/6c69c918-a2b6-47ae-a0e6-a456f86f8701" />
 
-<img width="1497" alt="image" src="https://github.com/user-attachments/assets/b90ae947-f2d5-45d4-887b-432f3b519baa" />
+<img width="1930" height="869" alt="image" src="https://github.com/user-attachments/assets/b607db62-f60f-43ad-92b4-5e443fe0bb4e" />
 
-<img width="1483" alt="image" src="https://github.com/user-attachments/assets/669d6f3c-d366-454e-90d9-9418013f31e3" />
+<img width="1918" height="648" alt="image" src="https://github.com/user-attachments/assets/2dc6b53d-5345-4e0a-b5c9-698e9193ac13" />
 
-<img width="1526" alt="image" src="https://github.com/user-attachments/assets/7e187848-4cfc-46bc-83fe-bed33e142076" />
+<img width="1874" height="963" alt="image" src="https://github.com/user-attachments/assets/d0d23694-88fe-41cf-89b4-f975b5defbb9" />
+
 
 The file SENSORS.YAML contains all of the the sensors I had to create in addition to already existing sensors. You will need to create them in your configuration.yaml file of your Home Assistant.  
 
