@@ -87,13 +87,9 @@ The file "NODE-RED FLOWS Vx.x . JSON" contains al the flows in the pictures belo
 
 <img width="1948" height="1080" alt="image" src="https://github.com/user-attachments/assets/35b91433-becc-4364-8fd3-2e3de4fe3e47" />
 
+<img width="1950" height="690" alt="image" src="https://github.com/user-attachments/assets/ec90342d-65ab-411c-b23e-f5d08b6929f6" />
 
-
-
-<img width="1918" height="648" alt="image" src="https://github.com/user-attachments/assets/2dc6b53d-5345-4e0a-b5c9-698e9193ac13" />
-
-<img width="1874" height="963" alt="image" src="https://github.com/user-attachments/assets/d0d23694-88fe-41cf-89b4-f975b5defbb9" />
-
+<img width="2017" height="1001" alt="image" src="https://github.com/user-attachments/assets/6f3d7871-80cd-460c-b48a-703887583960" />
 
 The file SENSORS.YAML contains all of the the sensors I had to create in addition to already existing sensors. You will need to create them in your configuration.yaml file of your Home Assistant.  
 
