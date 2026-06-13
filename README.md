@@ -48,13 +48,16 @@ gate, within-time-switch, traffic, controletimer and install them one by one.
 I also made use of the EPEX SPOT integration and in addition the EPEX SPOT SENSOR integration that you can download true HACS community integrations.
 You can make the for the most expensive price in the morning and evening binary sensors to use in the automations. 
 
-Features in this Release 1.2:
+Features in this Release 1.4:
     
     1. Zero export when export price is negative → Only generate energy used in the home.
 
-    2. Negative import prices → Charge the battery during the 3 most negative price hours and stop PV production during that time.
-       (still in test phase)
-
+    2. Negative import prices → During a negative import price: Stop solar production and use energy from the grid instead. 
+       With an SMA inverter it is not possible to charge the battery during this time, because it will start full solar production
+       at the same time. It is not possible during that time to lower the solar production 
+       and the battery will fully charge with solar instead of grid energy. So you can't use the battery to charge from the grid at that time.
+       You can of course use an electric appliance to consume grid energy like a washing machine or an electric heating boiler.
+       
     3. Smart selling → Sell excess energy at peak price in the morning/evening, if solar forecast is strong (March–September).
        In the evening it will sell all energy above 70% SOC if the solar forecast the next day is high enough. 
        In the morning it will sell all energy above 20% SOC if the solar forecast the same day is high enough. 
