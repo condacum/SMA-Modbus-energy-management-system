@@ -73,6 +73,9 @@ Features in this Release 1.2:
 🛠️ Note:
 Feel free to use or modify my flows for your own setup. You do so at your own risk.
 
+<img width="1944" height="1636" alt="image" src="https://github.com/user-attachments/assets/0fc6332c-7405-4278-9e50-933f3d5e5a77" />
+
+
 <img width="3805" height="1892" alt="image" src="https://github.com/user-attachments/assets/8efa2469-045e-4c26-a3a2-97fd9cd24f5a" />
 
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/8b72d425-1f3d-4b6b-9fc8-65d8495aefa0" />
