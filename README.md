@@ -75,16 +75,14 @@ Feel free to use or modify my flows for your own setup. You do so at your own ri
 
 <img width="1944" height="1636" alt="image" src="https://github.com/user-attachments/assets/0fc6332c-7405-4278-9e50-933f3d5e5a77" />
 
-
-<img width="3805" height="1892" alt="image" src="https://github.com/user-attachments/assets/8efa2469-045e-4c26-a3a2-97fd9cd24f5a" />
-
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/8b72d425-1f3d-4b6b-9fc8-65d8495aefa0" />
 
 The file "NODE-RED FLOWS Vx.x . JSON" contains al the flows in the pictures below. You can import them in Node-RED. 
 
 <img width="710" alt="image" src="https://github.com/user-attachments/assets/7757c1ec-6be6-4901-a245-476732700c47" />
 
-<img width="1917" height="1535" alt="image" src="https://github.com/user-attachments/assets/695f53ee-796d-4920-99ce-f4be37471d07" />
+<img width="2123" height="1226" alt="image" src="https://github.com/user-attachments/assets/5dcb3677-5836-4feb-842e-b8726ecc305d" />
+
 
 <img width="1943" height="644" alt="image" src="https://github.com/user-attachments/assets/6c69c918-a2b6-47ae-a0e6-a456f86f8701" />
 
